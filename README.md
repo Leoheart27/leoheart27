@@ -4,7 +4,6 @@
 [![Contact](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5521999699990)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoheart27&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoheart27&layout=compact&theme=tokyonight)
 
 ## My technology range
