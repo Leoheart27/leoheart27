@@ -22,7 +22,7 @@
 
 Passionate for technology, studying daily, and actively seeking professional experience.
 
-## Current learning status
+## Current studying...
 
 <ul>
 <li>Data structure - <i>UNINTER UNIVERSITY</i></li>
