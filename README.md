@@ -25,6 +25,6 @@ Passionate for technology, studying daily, and actively seeking professional exp
 ## Current studying...
 
 <ul>
-<li>Data structure - <i>UNINTER UNIVERSITY</i></li>
-<li>React nextjs/vite - <i>B7WEB</i>
+<li>Data structure - <i>UNINTER UNIVERSITY - Analysis and Systems Development</i></li>
+<li>React nextjs/vite - <i>B7WEB Course</i>
 </ul>
